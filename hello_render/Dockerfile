@@ -1,6 +1,7 @@
 # 安定版の OpenJDK 17 イメージ
 FROM eclipse-temurin:17-jdk-focal
 
+
 # 作業ディレクトリ
 WORKDIR /app
 
